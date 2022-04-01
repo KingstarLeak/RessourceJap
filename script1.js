@@ -1,0 +1,1 @@
+alert("Pages de fiches")

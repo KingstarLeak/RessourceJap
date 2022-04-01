@@ -1,0 +1,87 @@
+body{
+  background-image: url(https://4.bp.blogspot.com/-54_VDXLOXI8/XGso03-fJTI/AAAAAAAACns/1zPPLFcTOLQ270ay6yt1X885VRmjIeuTwCKgBGAs/w0/mount-fuji-city-japan-landscape-scenery-8K-169.jpg);
+  background-size: 100%;
+}
+body.home1{
+  background-image: url(https://wallpaperaccess.com/full/116291.jpg);
+}
+
+div.top{
+  height: 100px;
+}
+
+h1.home_title{
+  font-style: normal;
+  font-family: arial;
+  font-size: 60px
+
+}
+
+
+
+nav.menu{
+  padding-top: 200px;
+}
+
+
+nav.menu ul li{
+	display: inline-block;
+  list-style-type: none;
+}
+nav.menu ul li a{
+  color: #F8F4F5;
+  text-decoration: none;
+  background-color: #bfa5a5;
+  padding: 65px;
+  font-size: 65px;
+  font-family: impact;
+}
+nav.menu ul li a:hover{
+  color: #EEF2F1;
+  background-color: #63706d;
+  transition: 0.4s;
+  font-size: 70px;
+}
+
+a.link{
+  font-family: comic sans ms ;
+  color: rgb(106, 101, 200);
+  text-decoration: none;
+}
+a.link2{
+  font-family: comic sans ms;
+  font-weight: bold;
+  color: blue-dark;
+  text-decoration: none;
+  font-size: 40px;
+}
+
+
+nav.menu2{
+  padding-top: 200px;
+}
+nav.menu2 ul li{
+	display: inline-block;
+  list-style-type: none;
+}
+nav.menu2 ul li a{
+  color: #fff;
+  text-decoration: none;
+  background-color: #8295ba;
+  padding: 50px;
+  font-size: 45px;
+  font-family: impact;
+}
+nav.menu2 ul li a:hover{
+  color: #f9b99a;
+  background-color: #321503;
+  transition: 0.4s;
+  font-size: 50px;
+}
+
+h1.error{
+  font-family: Impact;
+  padding-top: 200px;
+  font-size: 65px;
+  color: white;
+}
